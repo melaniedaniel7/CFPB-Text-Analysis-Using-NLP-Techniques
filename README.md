@@ -6,7 +6,5 @@ In this task I will use NLP techniques in Python to analyse texts comprising com
 
 This repository contains the following files:
 - The csv file of the complaints I used for this project
-- The "Text Cleaning" file shows how the dataset was cleaned
-- The "Numeric Vectors" file shows how clean texts were converted into numerical vectors using BoW and TF-IDF
-- The "Most Prevalent Topics" file shows how the most prevalnt topics were idetified using LSA and LDA
-Each file contains the fully functional code, together with comments which provide a brief technical description on the code.
+- The project file (task 1) contains the fully functional code, together with comments which provide a brief technical description on the code
+- The data exploration file where I explored the data and thoughts I had from phase 2 before completeing the project
